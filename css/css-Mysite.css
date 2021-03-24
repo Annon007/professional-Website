@@ -35,12 +35,12 @@ h3{
 .topCloud{
     position: absolute;
     top: 20px;
-    width: 200px;
+    max-width: 200px;
     left: 850px;
 }
 .bottomCloud{
     position: absolute;
-    width: 200px;
+    max-width: 200px;
     left: 50px;
 
 }
